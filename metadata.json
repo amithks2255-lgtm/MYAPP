@@ -1,0 +1,8 @@
+{
+  "name": "ReturnPredict - E-Commerce Return Prediction",
+  "description": "E-Commerce product return risk predictor powered by Random Forest ML with interactive predictions, real-time vote share analysis, and comprehensive Confusion Matrix performance metrics.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

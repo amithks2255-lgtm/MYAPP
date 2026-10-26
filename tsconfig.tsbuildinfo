@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/BatchSimulatorView.tsx","./src/components/ConfusionMatrixView.tsx","./src/components/Header.tsx","./src/components/ModelArchitectureView.tsx","./src/components/PredictionResultCard.tsx","./src/components/PredictorForm.tsx","./src/lib/evaluation.ts","./src/lib/randomForest.ts","./src/types/model.ts"],"version":"5.7.3"}
